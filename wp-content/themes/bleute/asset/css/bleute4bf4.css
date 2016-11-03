@@ -2288,7 +2288,7 @@ header #main-navigation.default .menu-item .sub-menu .menu-item .sub-menu li a:h
 }
 
 .history .history-content .content-small {
-  color:#919090;
+  color:black;
   /*font-size: 1.2em;*/
   line-height: 24px;
   margin-bottom: 30px;
@@ -2817,8 +2817,8 @@ header #main-navigation.default .menu-item .sub-menu .menu-item .sub-menu li a:h
 }
 
 .service.service-full .content-service .text-bottom .content {
-  font-size: 1.2em;
-  color: #919090;
+  font-size: 1em;
+  color: black;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.6px;
@@ -2941,7 +2941,7 @@ header #main-navigation.default .menu-item .sub-menu .menu-item .sub-menu li a:h
 .service.service-small .content-small .content-service .text-small .content {
   font-size: 1em;
   padding: 10px 40px;
-  color: #919090;
+  color: black;
   line-height: 24px;
   letter-spacing: 0.6px;
   max-height: 85px;
@@ -3115,7 +3115,7 @@ header #main-navigation.default .menu-item .sub-menu .menu-item .sub-menu li a:h
 .service-page .content-service .text-small .content {
   font-size: 0.8em;
   padding: 10px 40px;
-  color: #898989;
+  color: black;
   letter-spacing: 0.6px;
   line-height: 24px;
   max-height: 180px;
@@ -3161,7 +3161,7 @@ header #main-navigation.default .menu-item .sub-menu .menu-item .sub-menu li a:h
 .banner-details-service .content-banner-service .title-service {
   font-weight: 600;
   color:#7A943C;
-  font-size: 3.61538em;
+  font-size: 3em;
   line-height: 80px;
 }
 
@@ -4521,6 +4521,7 @@ header #main-navigation.default .menu-item .sub-menu .menu-item .sub-menu li a:h
 }
 
 .breadcrumb ul li {
+
   list-style: none;
   float: left;
   padding: 0 10px;
@@ -4545,11 +4546,11 @@ header #main-navigation.default .menu-item .sub-menu .menu-item .sub-menu li a:h
 }
 
 .breadcrumb ul li.active a {
-  color: #50b156;
+  color: #7A943C;
 }
 
 .breadcrumb ul li a {
-  color: #50b156;
+  color:#7A943C;
   text-decoration: underline;
 }
 
@@ -5005,7 +5006,7 @@ header #main-navigation.default .menu-item .sub-menu .menu-item .sub-menu li a:h
 .about .introduce .introduce-image .content {
   margin-top: 35px;
   font-size: 0.8em;
-  color: #919090;
+  color: black;
   line-height: 24px;
   letter-spacing: 0.6px;
 }
@@ -5075,7 +5076,7 @@ header #main-navigation.default .menu-item .sub-menu .menu-item .sub-menu li a:h
 }
 
 .about .bottom-about .content {
-  color: #919090;
+  color: black;
   font-weight: 500;
   font-size: 0.8em;
   line-height: 24px;
@@ -6770,7 +6771,8 @@ header #main-navigation.default .menu-item .sub-menu .menu-item .sub-menu li a:h
 }
 
 .content-details-service .content-top .content {
-  color: #516328;
+  font-size: 0.8em;
+  color: black;
   line-height: 24px;
 }
 
