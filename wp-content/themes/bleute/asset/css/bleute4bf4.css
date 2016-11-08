@@ -7,6 +7,10 @@ body .vc_row {
   padding-right: 0 !important;
 }
 
+@font-face {
+  font-family: nexalight;
+  src: url(../../../../../fonts/Nexa_Light.otf);
+}
 /* --------------------------------
 
 Primary style
@@ -11528,6 +11532,8 @@ body div.festi-cart-pop-up-products-content div.festi-cart-total span {
   }
   .breadcrumb {
     margin-left: 25px;
+    font-family: nexalight;
+
   }
   #mySearch .modal-dialog button {
     top: -100px;

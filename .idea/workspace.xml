@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c945102e-1b80-4787-a154-61821aba8573" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/qw.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/q.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/qw.png" />
@@ -173,6 +174,179 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index5a14.html" afterPath="$PROJECT_DIR$/index5a14.html" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tuy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ayurveda-spices.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/qw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/op.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/ayurveda-spices.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/qw.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1391.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1275.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1225.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1319.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1270.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0053.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1322.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1368.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1238.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1357.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1257.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0074.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1258.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1332.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1246.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1339.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0073.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0072.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1314.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1380.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1367.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1242.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1338.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0067.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1256.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1347.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0070.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1373.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1342.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1384.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1346.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1335.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1378.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1329.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1313.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1298.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1265.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1387.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0080.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1252.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1305.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1358.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1307.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1226.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1267.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1318.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1389.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1284.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1249.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0063.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1323.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1234.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1296.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1327.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1301.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1302.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0055.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1310.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1264.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1247.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1274.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1317.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1239.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1285.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1340.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1379.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1299.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1395.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1320.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0068.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1315.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/EDITED/IMG_1390.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1255.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1345.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1348.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1328.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0075.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0069.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1396.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1259.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0058.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1351.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1375.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1286.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1278.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1337.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0052.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1243.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1266.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1297.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0054.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1271.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1291.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1383.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0064.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1326.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0076.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1388.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1331.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1352.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/EDITED/IMG_1395.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1261.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1394.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1354.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1377.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1262.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0081.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1308.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0051.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1250.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1311.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1344.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1355.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1273.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1300.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0056.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1295.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0066.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1330.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1245.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1343.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1359.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1312.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1304.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1287.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1283.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0077.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1321.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1325.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1392.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1253.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1309.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1254.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0065.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1272.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0059.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1316.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1341.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1386.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1385.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1324.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1260.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1263.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1224.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0057.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0078.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1336.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1390.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1303.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1353.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1334.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/IMG_0079.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1289.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1370.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1333.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1306.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PRODUCT PHOTO/canon/IMG_1374.JPG" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index5a14.html" afterPath="$PROJECT_DIR$/index5a14.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/maxmegamenu/style1c91.css" afterPath="$PROJECT_DIR$/wp-content/uploads/maxmegamenu/style1c91.css" />
+>>>>>>> master
     </list>
     <ignored path="1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -194,6 +368,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
@@ -241,11 +416,54 @@
                 <marker date="1478584738697" expanded="true" signature="19843:19974" ph="..." />
                 <marker date="1478584738697" expanded="true" signature="20045:20162" ph="..." />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/service/citronellaoil/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.945455">
+              <caret line="825" column="36" selection-start-line="825" selection-start-column="36" selection-end-line="825" selection-end-column="36" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#1;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#2;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#3;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#1;n#li#3;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#4;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#0;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#1;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#2;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#3;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#4;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#5;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1478253841866" expanded="true" signature="19445:19576" placeholder="..." />
+                <marker date="1478253841866" expanded="true" signature="19647:19764" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sectional.rnc" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/sectional.rnc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+              <folding />
+>>>>>>> master
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="149">
@@ -290,12 +508,61 @@
                 <element signature="n#style#0;n#a#4;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1478584739629" expanded="true" signature="19344:19475" ph="..." />
                 <marker date="1478584739629" expanded="true" signature="19546:19663" ph="..." />
+=======
+        <entry file="file://$PROJECT_DIR$/service/cleaningmade/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.8181818">
+              <caret line="621" column="60" selection-start-line="621" selection-start-column="60" selection-end-line="621" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1478241764317" expanded="true" signature="19448:19579" placeholder="..." />
+                <marker date="1478241764317" expanded="true" signature="19650:19767" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/eucalyptusoil/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.509091">
+              <caret line="803" column="33" selection-start-line="803" selection-start-column="33" selection-end-line="803" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#0;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#1;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#2;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#3;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#4;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#5;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#6;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#0;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#1;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#2;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#li#3;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1478251084218" expanded="true" signature="19341:19472" placeholder="..." />
+                <marker date="1478251084218" expanded="true" signature="19543:19660" placeholder="..." />
+>>>>>>> master
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/contact/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="212">
@@ -336,6 +603,70 @@
                 <element signature="n#style#0;n#a#4;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1478584654536" expanded="true" signature="19347:19478" ph="..." />
                 <marker date="1478584654536" expanded="true" signature="19549:19666" ph="..." />
+=======
+        <entry file="file://$PROJECT_DIR$/service/lemongrass/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.690909">
+              <caret line="739" column="28" selection-start-line="739" selection-start-column="28" selection-end-line="739" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#6;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#7;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#8;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#9;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#10;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#11;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1478249844060" expanded="true" signature="19450:19581" placeholder="..." />
+                <marker date="1478249844060" expanded="true" signature="19652:19769" placeholder="..." />
+>>>>>>> master
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/service/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="949" column="14" selection-start-line="949" selection-start-column="14" selection-end-line="949" selection-end-column="14" />
+=======
+        <entry file="file://$PROJECT_DIR$/service/mosquitofoe/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.509091">
+              <caret line="703" column="33" selection-start-line="701" selection-start-column="24" selection-end-line="722" selection-end-column="29" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#1;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1478241764256" expanded="true" signature="19455:19586" placeholder="..." />
+                <marker date="1478241764256" expanded="true" signature="19657:19774" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -344,15 +675,15 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="949" column="14" selection-start-line="949" selection-start-column="14" selection-end-line="949" selection-end-column="14" />
+            <state vertical-scroll-proportion="-0.3090909">
+              <caret line="881" column="73" selection-start-line="881" selection-start-column="73" selection-end-line="881" selection-end-column="73" />
+>>>>>>> master
               <folding>
                 <element signature="n#style#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -368,6 +699,7 @@
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+<<<<<<< HEAD
                 <element signature="n#style#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -377,12 +709,19 @@
                 <element signature="n#style#0;n#a#4;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1478584739965" expanded="true" signature="19492:19623" ph="..." />
                 <marker date="1478584739965" expanded="true" signature="19694:19811" ph="..." />
+=======
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1478248542348" expanded="true" signature="19349:19480" placeholder="..." />
+                <marker date="1478248542348" expanded="true" signature="19551:19668" placeholder="..." />
+>>>>>>> master
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/service/mosquitofoe/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -406,12 +745,23 @@
                 <element signature="n#style#0;n#a#4;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1478584739374" expanded="true" signature="19601:19732" ph="..." />
                 <marker date="1478584739374" expanded="true" signature="19803:19920" ph="..." />
+=======
+        <entry file="file://$PROJECT_DIR$/service/citronella1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="86.27273">
+              <caret line="797" column="36" selection-start-line="797" selection-start-column="36" selection-end-line="797" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1478255473015" expanded="true" signature="19449:19580" placeholder="..." />
+                <marker date="1478255473015" expanded="true" signature="19651:19768" placeholder="..." />
+>>>>>>> master
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/service/lemongrass/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-209">
@@ -443,6 +793,30 @@
                 <element signature="n#style#0;n#a#4;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1478584738984" expanded="true" signature="19596:19727" ph="..." />
                 <marker date="1478584738984" expanded="true" signature="19798:19915" ph="..." />
+=======
+        <entry file="file://$PROJECT_DIR$/about/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33512545">
+              <caret line="929" column="26" selection-start-line="929" selection-start-column="26" selection-end-line="929" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1478258910903" expanded="true" signature="19201:19332" placeholder="..." />
+                <marker date="1478258910903" expanded="true" signature="19403:19520" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/cinnamon oil/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2">
+              <caret line="691" column="99" selection-start-line="691" selection-start-column="99" selection-end-line="691" selection-end-column="99" />
+              <folding>
+                <marker date="1478247381621" expanded="true" signature="19448:19579" placeholder="..." />
+                <marker date="1478247381621" expanded="true" signature="19650:19767" placeholder="..." />
+>>>>>>> master
               </folding>
             </state>
           </provider>
@@ -494,6 +868,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/bleute/asset/js/maps/swiper.min.js.map" />
         <option value="$PROJECT_DIR$/wp-content/themes/bleute/asset/js/swiper.min55a0.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/bleute/asset/css/bootstrap3d36.css" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/service/lemoneucalyptus/index.html" />
         <option value="$PROJECT_DIR$/service/mosquitoremover/index.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/bleute/asset/css/bleute4bf4.css" />
@@ -510,18 +885,40 @@
         <option value="$PROJECT_DIR$/service/index.html" />
         <option value="$PROJECT_DIR$/service/mosquitofoe/index.html" />
         <option value="$PROJECT_DIR$/service/lemongrass/index.html" />
+=======
+        <option value="$PROJECT_DIR$/contact/index.html" />
+        <option value="$PROJECT_DIR$/service/lemoneucalyptus/index.html" />
+        <option value="$PROJECT_DIR$/service/mosquitoremover/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/bleute/asset/css/bleute4bf4.css" />
+        <option value="$PROJECT_DIR$/service/mosquitofoe/index.html" />
+        <option value="$PROJECT_DIR$/service/cloveoil/index.html" />
+        <option value="$PROJECT_DIR$/service/cleaningmade/index.html" />
+        <option value="$PROJECT_DIR$/service/index.html" />
+        <option value="$PROJECT_DIR$/service/cinnamon oil/index.html" />
+        <option value="$PROJECT_DIR$/service/lemongrass/index.html" />
+        <option value="$PROJECT_DIR$/service/eucalyptusoil/index.html" />
+        <option value="$PROJECT_DIR$/service/citronellaoil/index.html" />
+        <option value="$PROJECT_DIR$/service/citronella1/index.html" />
+        <option value="$PROJECT_DIR$/about/index.html" />
+>>>>>>> master
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="-8" />
     <option name="width" value="1365" />
+=======
+    <option name="x" value="-12" />
+    <option name="y" value="22" />
+    <option name="width" value="1382" />
+>>>>>>> master
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -549,70 +946,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
+              <option name="myItemId" value="aseptica" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bleute" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="asset" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT>
               <option name="myItemId" value="sanil-aseptica" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -621,13 +963,16 @@
               <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+=======
+>>>>>>> master
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
+              <option name="myItemId" value="aseptica" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="sanil-aseptica" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -637,44 +982,55 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mosquitofoe" />
+=======
+              <option name="myItemId" value="aseptica" />
+>>>>>>> master
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
+              <option name="myItemId" value="aseptica" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
+              <option name="myItemId" value="aseptica" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="lemongrass" />
+=======
+              <option name="myItemId" value="fonts" />
+>>>>>>> master
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sanil-aseptica" />
+              <option name="myItemId" value="aseptica" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="sanil-aseptica" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="fonts" />
+=======
+              <option name="myItemId" value="aseptica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
+>>>>>>> master
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -704,12 +1060,10 @@
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
       <envs />
       <method />
     </configuration>
@@ -726,7 +1080,6 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -737,12 +1090,10 @@
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run-script" />
       <scripts />
-      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory />
       <pass-parent-env>true</pass-parent-env>
@@ -763,9 +1114,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -774,7 +1123,6 @@
       <changelist id="c945102e-1b80-4787-a154-61821aba8573" name="Default" comment="" />
       <created>1470858411065</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1470858411065</updated>
       <workItem from="1470858412556" duration="336000" />
       <workItem from="1470859719724" duration="1135000" />
@@ -805,25 +1153,39 @@
     <option name="totallyTimeSpent" value="151558000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="0" width="1365" height="744" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20120573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+=======
+    <frame x="-12" y="22" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2001488" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29575163" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> master
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21603929" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21533442" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> master
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29623568" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -842,7 +1204,11 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/service/citronella1/index.html</url>
+<<<<<<< HEAD
           <line>963</line>
+=======
+          <line>1080</line>
+>>>>>>> master
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
@@ -850,6 +1216,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index8183.html" />
     <entry file="file://D:/WORK/WEBrip/palycoolnew/index.html" />
     <entry file="file://$PROJECT_DIR$/PRODUCT PHOTO/IMG_0075.JPG" />
@@ -869,15 +1236,106 @@
     <entry file="file://$PROJECT_DIR$/gallery/design/index.html" />
     <entry file="file://$PROJECT_DIR$/gallery/fashion/index.html" />
     <entry file="file://$PROJECT_DIR$/gallery/digital/index.html" />
+=======
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bleute/asset/css/bleute4bf4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6774" column="14" selection-start-line="6774" selection-start-column="14" selection-end-line="6774" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/citronellaoil/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="723" column="34" selection-start-line="723" selection-start-column="34" selection-end-line="723" selection-end-column="34" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#1;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#2;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#3;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#1;n#li#3;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#4;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#0;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#1;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#2;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#3;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#4;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#5;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478253841866" expanded="true" signature="19445:19576" placeholder="..." />
+            <marker date="1478253841866" expanded="true" signature="19647:19764" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/cloveoil/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="689" column="84" selection-start-line="689" selection-start-column="84" selection-end-line="689" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478248542346" expanded="true" signature="19448:19579" placeholder="..." />
+            <marker date="1478248542346" expanded="true" signature="19650:19767" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478248542348" expanded="true" signature="19349:19480" placeholder="..." />
+            <marker date="1478248542348" expanded="true" signature="19551:19668" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> master
     <entry file="file://$PROJECT_DIR$/wp-content/uploads/maxmegamenu/style1c91.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3213">
+        <state vertical-scroll-proportion="0.0">
           <caret line="189" column="0" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery/index.html" />
     <entry file="file://$PROJECT_DIR$/PRODUCT PHOTO/edi/eucal.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -885,14 +1343,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/beautheme-bleute/includes/thirdparty/woocommerce-grid-list-toggle/assets/css/buttond22c.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state vertical-scroll-proportion="0.0">
           <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/beautheme-bleute/includes/thirdparty/woocommerce-quick-view/assets/css/styled22c.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
+        <state vertical-scroll-proportion="0.0">
           <caret line="94" column="2" selection-start-line="94" selection-start-column="2" selection-end-line="94" selection-end-column="2" />
           <folding />
         </state>
@@ -970,14 +1428,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/bleute/asset/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-2754">
           <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+>>>>>>> master
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/eucalyptusoil/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="122">
           <caret line="145" column="22" selection-start-line="145" selection-start-column="22" selection-end-line="145" selection-end-column="22" />
           <folding>
@@ -1004,11 +1468,17 @@
             <marker date="1478584312515" expanded="true" signature="19488:19619" ph="..." />
             <marker date="1478584312515" expanded="true" signature="19690:19807" ph="..." />
           </folding>
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+>>>>>>> master
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/cleaningmade/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="136">
           <caret line="145" column="22" selection-start-line="145" selection-start-column="22" selection-end-line="145" selection-end-column="22" />
           <folding>
@@ -1197,14 +1667,73 @@
             <element signature="n#style#0;n#a#4;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1478584739629" expanded="true" signature="19344:19475" ph="..." />
             <marker date="1478584739629" expanded="true" signature="19546:19663" ph="..." />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1403" column="16" selection-start-line="1403" selection-start-column="16" selection-end-line="1403" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/appointment-booking/frontend/resources/js/hammer.min.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bleute/asset/js/swiper.min55a0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1251" column="0" selection-start-line="1251" selection-start-column="0" selection-end-line="1251" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="735" column="90" selection-start-line="735" selection-start-column="90" selection-end-line="735" selection-end-column="90" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#5;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#5;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#6;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#6;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#div#6;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#7;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#7;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#8;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#8;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#8;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#9;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#9;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+>>>>>>> master
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="311">
           <caret line="1115" column="9" selection-start-line="1115" selection-start-column="9" selection-end-line="1115" selection-end-column="9" />
+=======
+        <state vertical-scroll-proportion="-0.3090909">
+          <caret line="1040" column="65" selection-start-line="1040" selection-start-column="65" selection-end-line="1040" selection-end-column="65" />
+>>>>>>> master
           <folding>
             <element signature="n#style#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1245,12 +1774,18 @@
             <element signature="n#style#0;n#a#3;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#4;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+<<<<<<< HEAD
             <marker date="1478584738697" expanded="true" signature="19843:19974" ph="..." />
             <marker date="1478584738697" expanded="true" signature="20045:20162" ph="..." />
+=======
+            <marker date="1478239622625" expanded="true" signature="19701:19832" placeholder="..." />
+            <marker date="1478239622625" expanded="true" signature="19903:20020" placeholder="..." />
+>>>>>>> master
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/service/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -1286,14 +1821,67 @@
             <element signature="n#style#0;n#a#4;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1478584739965" expanded="true" signature="19492:19623" ph="..." />
             <marker date="1478584739965" expanded="true" signature="19694:19811" ph="..." />
+=======
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bleute/asset/css/bootstrap3d36.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5">
+          <caret line="11" column="6" selection-start-line="10" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bleute/asset/css/bleute4bf4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5121951">
+          <caret line="4561" column="32" selection-start-line="4561" selection-start-column="32" selection-end-line="4561" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/cloveoil/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4363637">
+          <caret line="641" column="36" selection-start-line="641" selection-start-column="36" selection-end-line="641" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478248542346" expanded="true" signature="19448:19579" placeholder="..." />
+            <marker date="1478248542346" expanded="true" signature="19650:19767" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/cleaningmade/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8181818">
+          <caret line="621" column="60" selection-start-line="621" selection-start-column="60" selection-end-line="621" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478241764317" expanded="true" signature="19448:19579" placeholder="..." />
+            <marker date="1478241764317" expanded="true" signature="19650:19767" placeholder="..." />
+>>>>>>> master
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/mosquitofoe/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="209">
           <caret line="798" column="74" selection-start-line="798" selection-start-column="74" selection-end-line="798" selection-end-column="74" />
+=======
+        <state vertical-scroll-proportion="-2.509091">
+          <caret line="703" column="33" selection-start-line="701" selection-start-column="24" selection-end-line="722" selection-end-column="29" />
+>>>>>>> master
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1305,6 +1893,7 @@
             <element signature="n#style#0;n#h4#0;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#1;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+<<<<<<< HEAD
             <element signature="n#style#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1313,14 +1902,144 @@
             <element signature="n#style#0;n#a#4;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1478584739374" expanded="true" signature="19601:19732" ph="..." />
             <marker date="1478584739374" expanded="true" signature="19803:19920" ph="..." />
+=======
+            <marker date="1478241764256" expanded="true" signature="19455:19586" placeholder="..." />
+            <marker date="1478241764256" expanded="true" signature="19657:19774" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3090909">
+          <caret line="881" column="73" selection-start-line="881" selection-start-column="73" selection-end-line="881" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478248542348" expanded="true" signature="19349:19480" placeholder="..." />
+            <marker date="1478248542348" expanded="true" signature="19551:19668" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/cinnamon oil/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2">
+          <caret line="691" column="99" selection-start-line="691" selection-start-column="99" selection-end-line="691" selection-end-column="99" />
+          <folding>
+            <marker date="1478247381621" expanded="true" signature="19448:19579" placeholder="..." />
+            <marker date="1478247381621" expanded="true" signature="19650:19767" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/lemongrass/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.690909">
+          <caret line="739" column="28" selection-start-line="739" selection-start-column="28" selection-end-line="739" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#6;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#7;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#8;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#9;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#10;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#11;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478249844060" expanded="true" signature="19450:19581" placeholder="..." />
+            <marker date="1478249844060" expanded="true" signature="19652:19769" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/eucalyptusoil/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.509091">
+          <caret line="803" column="33" selection-start-line="803" selection-start-column="33" selection-end-line="803" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#0;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#1;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#2;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#3;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#4;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#5;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#6;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#0;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#1;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#2;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#3;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478251084218" expanded="true" signature="19341:19472" placeholder="..." />
+            <marker date="1478251084218" expanded="true" signature="19543:19660" placeholder="..." />
+>>>>>>> master
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/service/lemongrass/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-209">
           <caret line="837" column="102" selection-start-line="837" selection-start-column="102" selection-end-line="837" selection-end-column="102" />
+=======
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/citronellaoil/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.945455">
+          <caret line="825" column="36" selection-start-line="825" selection-start-column="36" selection-end-line="825" selection-end-column="36" />
+>>>>>>> master
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1328,6 +2047,7 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+<<<<<<< HEAD
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1348,6 +2068,49 @@
             <element signature="n#style#0;n#a#4;n#p#0;n#div#0;n#aside#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1478584738984" expanded="true" signature="19596:19727" ph="..." />
             <marker date="1478584738984" expanded="true" signature="19798:19915" ph="..." />
+=======
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#1;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#2;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#3;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#1;n#li#3;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#4;n#ol#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#0;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#1;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#2;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#3;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#4;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#li#5;n#ol#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478253841866" expanded="true" signature="19445:19576" placeholder="..." />
+            <marker date="1478253841866" expanded="true" signature="19647:19764" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/citronella1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="86.27273">
+          <caret line="797" column="36" selection-start-line="797" selection-start-column="36" selection-end-line="797" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478255473015" expanded="true" signature="19449:19580" placeholder="..." />
+            <marker date="1478255473015" expanded="true" signature="19651:19768" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33512545">
+          <caret line="929" column="26" selection-start-line="929" selection-start-column="26" selection-end-line="929" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478258910903" expanded="true" signature="19201:19332" placeholder="..." />
+            <marker date="1478258910903" expanded="true" signature="19403:19520" placeholder="..." />
+>>>>>>> master
           </folding>
         </state>
       </provider>
