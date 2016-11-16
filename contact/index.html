@@ -212,6 +212,9 @@
     <meta name="generator" content="WooCommerce 2.6.0"/>
     <link rel="canonical" href="index.html"/>
     <script>var ms_grabbing_curosr = '../wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur', ms_grab_curosr = '../wp-content/plugins/masterslider/public/assets/css/common/grab.cur';</script>
+
+    <script type="text/javascript" src="email_ajax.js"></script>
+
     <meta name="generator" content="MasterSlider 2.25.4 - Responsive Touch Image Slider"/>
     <style>
         div.b-modal {
@@ -733,41 +736,51 @@
                 <div role="form" class="wpcf7" id="wpcf7-f4-o1" lang="en-US" dir="ltr">
                     <div class="screen-reader-response"></div>
                     <form action="sendMail.php" method="post" class="wpcf7-form"
-                          novalidate="novalidate">
+                    novalidate="novalidate">
 
-                        <div style="display: none;">
-                            <input type="hidden" name="_wpcf7" value="4"/>
-                            <input type="hidden" name="_wpcf7_version" value="4.3.1"/>
-                            <input type="hidden" name="_wpcf7_locale" value="en_US"/>
-                            <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f4-o1"/>
-                            <input type="hidden" name="_wpnonce" value="c499773e74"/>
-                        </div>
-                        <p>Name<br/>
-                            <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value=""
-                                                                                   size="40"
-                                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                   aria-required="true"
-                                                                                   aria-invalid="false" /></span></p>
-                        <p>Email<br/>
-                            <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email"
-                                                                                    value="" size="40"
-                                                                                    class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false" /></span></p>
-                        <p>Phone<br/>
-                            <span class="wpcf7-form-control-wrap text-910"><input type="text" name="text-910" value=""
-                                                                                  size="40"
-                                                                                  class="wpcf7-form-control wpcf7-text"
-                                                                                  aria-invalid="false"/></span></p>
-                        <p>Message<br/>
-                            <span class="wpcf7-form-control-wrap your-message" id="Message"><textarea name="your-message" cols="40"
-                                                                                         rows="10"
-                                                                                         class="wpcf7-form-control wpcf7-textarea"
-                                                                                         aria-invalid="false" ></textarea></span>
-                        </p>
-                        <p><input type="submit" value="Send Message" class="wpcf7-form-control wpcf7-submit"  /></p>
-                        <div class="wpcf7-response-output wpcf7-display-none"></div>
+                    <div style="display: none;">
+                    <input type="hidden" name="name" value="4"/>
+                    <input type="hidden" name="email" value="4.3.1"/>
+                    <input type="hidden" name="_wpcf7_locale" value="en_US"/>
+                    <input type="hidden" name="message" value="wpcf7-f4-o1"/>
+                    <input type="hidden" name="_wpnonce" value="c499773e74"/>
+                    </div>
+                    <p>Name<br/>
+                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value=""
+                    size="40"
+                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                    aria-required="true"
+                    aria-invalid="false" /></span></p>
+                    <p>Email<br/>
+                    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email"
+                    value="" size="40"
+                    class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
+                    aria-required="true"
+                    aria-invalid="false" /></span></p>
+                    <p>Phone<br/>
+                    <span class="wpcf7-form-control-wrap text-910"><input type="text" name="text-910" value=""
+                    size="40"
+                    class="wpcf7-form-control wpcf7-text"
+                    aria-invalid="false"/></span></p>
+                    <p>Message<br/>
+                    <span class="wpcf7-form-control-wrap your-message" id="Message"><textarea name="your-message" cols="40"
+                    rows="10"
+                    class="wpcf7-form-control wpcf7-textarea"
+                    aria-invalid="false" ></textarea></span>
+                    </p>
+                    <p><input type="submit" value="Send Message" class="wpcf7-form-control wpcf7-submit" name="submit" /></p>
+                    <div class="wpcf7-response-output wpcf7-display-none"></div>
                     </form>
+                    <!--<form action="sendMail.php" method="post">-->
+                        <!--First Name: <input type="text" name="first_name"><br>-->
+                        <!--Last Name: <input type="text" name="last_name"><br>-->
+                        <!--Email: <input type="text" name="email"><br>-->
+                        <!--Message:<br><textarea rows="5" name="message" cols="30"></textarea><br>-->
+                        <!--<input type="submit" name="submit" value="Submit">-->
+                    <!--</form>-->
+
+
+
                 </div>
             </div>
         </div>
