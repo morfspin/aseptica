@@ -215,194 +215,7 @@
 
     <script>var ms_grabbing_curosr = '../wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur', ms_grab_curosr = '../wp-content/plugins/masterslider/public/assets/css/common/grab.cur';</script>
     <meta name="generator" content="MasterSlider 2.25.4 - Responsive Touch Image Slider"/>
-    <style>
-        div.b-modal {
-            background-color: #000000 !important;
-            opacity: 0.2 !important;
-            z-index: 9999998 !important;
-        }
 
-        div#festi-cart-pop-up-content {
-            z-index: 9999999 !important;
-        }
-
-        div#festi-cart-pop-up-content div.festi-cart-pop-up-body {
-            border: 3px solid;
-            border-radius: 10px;
-            border-color: #00a8ca;
-            padding: 10px;
-            box-shadow: 0 0 0px 0px #5e5e5e;
-            width: 400px;
-            background-color: rgba(
-                    255,
-                    255,
-                    255,
-                    1);
-        }
-
-        div.festi-cart-pop-up-body div.festi-cart-pop-up-header {
-            text-align: center;
-            margin: 10px 10px 20px 10px;
-        }
-
-        div.festi-cart-pop-up-body div.festi-cart-pop-up-header span.festi-cart-added-to-cart-msg {
-            color: #5b9e2b;
-            font-size: 20px;
-        }
-
-        div#festi-cart-pop-up-content span.festi-cart-closed.b-close {
-
-            display: block;
-            float: right;
-            cursor: pointer;
-            position: relative;
-            right: 10px;
-            top: 10px;
-        }
-
-        div#festi-cart-pop-up-content span.festi-cart-closed.b-close span.festi-cart-closed-button {
-            font-size: 30px;
-            font-weight: bold;
-            color: #00a8ca;
-        }
-
-        div#festi-cart-pop-up-content span.b-close span.festi-cart-closed-button:hover {
-            color: #72ddf2;
-        }
-
-        div.festi-cart-pop-up-body div.festi-cart-pop-up-footer {
-            text-align: center
-        }
-
-        div.festi-cart-pop-up-footer span.festi-cart-continue.b-close span.festi-cart-continue-shopping {
-
-            border: 0px solid;
-            border-color: #e0e0e0;
-            border-radius: 0px;
-            background-color: #ffffff;
-            color: #00a8ca;
-            font-size: 20px;
-            line-height: 20px;
-            padding-top: 10px;
-            padding-bottom: 10px;
-        }
-
-        div.festi-cart-pop-up-footer span.festi-cart-continue.b-close span.festi-cart-continue-shopping:hover {
-            background-color: #ffffff;
-            border-color: #e0e0e0;
-            color: #72ddf2;
-        }
-
-        /*product list analog Start */
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-title a.festi-cart-title,
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-title span.festi-cart-title {
-            color: #00497d;
-            font-size: 13px;
-        }
-
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-title a.festi-cart-title:hover {
-            color: #8094ed;
-        }
-
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-title span.festi-cart-product-count,
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-title span.festi-cart-product-price,
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-title span.festi-cart-product-price span.amount {
-            color: #1f1e1e;
-            font-size: 13px;
-        }
-
-        body div.festi-cart-pop-up-products-content div.festi-cart-total {
-            border: 0px solid;
-            border-color: #e6e6e6;
-            border-radius: 7px;
-            background-color: #eeeeee;
-            color: #000000;
-            font-size: 13px;
-            text-align: right;
-        }
-
-        body div.festi-cart-pop-up-products-content p.festi-cart-buttons a.festi-cart-view-cart {
-
-            border: 1px solid;
-            border-color: #e0e0e0;
-            border-radius: 7px;
-            background-color: #eeeeee;
-            color: #000000;
-            font-size: 13px;
-            padding-top: 5px;
-            padding-bottom: 5px;
-        }
-
-        body div.festi-cart-pop-up-products-content p.festi-cart-buttons a.festi-cart-view-cart:hover {
-            background-color: #6caff7;
-            border-color: #e0e0e0;
-            color: #ffffff;
-        }
-
-        body div.festi-cart-pop-up-products-content p.festi-cart-buttons a.festi-cart-checkout {
-
-            border: 1px solid;
-            border-color: #e0e0e0;
-            border-radius: 7px;
-            background-color: #eeeeee;
-            color: #000000;
-            font-size: 13px;
-            padding-top: 5px;
-            padding-bottom: 5px;
-        }
-
-        body div.festi-cart-pop-up-products-content p.festi-cart-buttons a.festi-cart-checkout:hover {
-            background-color: #6caff7;
-            border-color: #e0e0e0;
-            color: #ffffff;
-        }
-
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-delete {
-            vertical-align: top;
-        }
-
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-delete a.festi-cart-remove-product {
-            font-size: 18px;
-            line-height: 18px;
-            color: #000000;
-            float: left;
-        }
-
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-delete a.festi-cart-remove-product:hover {
-            color: #807878;
-        }
-
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr,
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr td {
-            border-bottom: 1px solid;
-            border-bottom-color: #e8e4e3;
-        }
-
-        div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-empty {
-            color: #111111;
-            padding: 0;
-        }
-
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-empty td.festi-cart-empty {
-            padding-top: 5px;
-            padding-bottom: 5px;
-        }
-
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-img a.festi-cart-img img,
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-img span.festi-cart-img img {
-
-            max-width: 40px;
-
-            width: 40px;
-        }
-
-        body div.festi-cart-pop-up-products-content table.festi-cart-list tr.festi-cart-item td.festi-cart-product-title span.festi-cart-product-variation-attribut {
-            font-size: 12px;
-            display: block;
-        }
-
-        /*product list analog END */
-    </style>
     <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
     <!--[if lte IE 9]>
     <link rel="stylesheet" type="text/css"
@@ -623,16 +436,16 @@
                                 data-reverse-mobile-items="true"
                                 data-vertical-behaviour="standard" data-breakpoint="600">
                                 <li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-ancestor mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-807'
-                                    id='mega-menu-item-807'><a class="mega-menu-link" href="../index.html">Home</a>
+                                    id='mega-menu-item-8071'><a class="mega-menu-link" href="../index.html">Home</a>
                                 </li>
                                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current-menu-item mega-page_item mega-page-item-10 mega-current_page_item mega-current-menu-ancestor mega-current-menu-parent mega-current_page_parent mega-current_page_ancestor mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-820'
-                                    id='mega-menu-item-820'><a class="mega-menu-link" href="./index.html">About Us</a>
+                                    id='mega-menu-item-8201'><a class="mega-menu-link" href="./index.html">About Us</a>
                                 <li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-ancestor mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-820'
-                                    id='mega-menu-item-815'><a class="mega-menu-link" href="../service/index.html">Products</a>
+                                    id='mega-menu-item-8151'><a class="mega-menu-link" href="../service/index.html">Products</a>
                                 </li>
                                     
                                 <li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-819'
-                                    id='mega-menu-item-819'><a class="mega-menu-link" href="../contact/index.html">Contact</a>
+                                    id='mega-menu-item-8191'><a class="mega-menu-link" href="../contact/index.html">Contact</a>
                                 </li>
                                 
                             </ul>
@@ -920,179 +733,45 @@
     </div>
 </section>
 <footer>
-    <div class="container"></div>
     <div class="bottom-footer">
-        <div class="row">
-
-            <div class="to-bottom bottom">
-                <div class="title-back-to-top">back to top</div>
-                <a href="#" class="bt-top"><i class="fa fa-angle-up"></i></a>
-            </div>
+        <div class="bottom-footer">
             <div class="row">
-                <div class="col-md-1">
-                    </div>
-                <div class="col-md-3">
 
-            <div class="" style="font-family: nexalight">
-                   Aseptica Natural Products Pvt. Ltd.
-                Adivaram (P.O), Thusharagiri Road, Puthuppady,
-                Calicut,
-                Kerala.
-            </div>
+                <div class="to-bottom bottom">
+                    <div class="title-back-to-top">back to top</div>
+                    <a href="#" class="bt-top"><i class="fa fa-angle-up"></i></a>
                 </div>
-                <div class="col-md-3">
 
-            <div class="" style="font-family: nexalight">Aseptica Natural Products Pvt. Ltd.
-                Room no:G7 EMS,
-                Stadium Building,
-                calicut,
-                673001
-            </div>
+                <div class="container">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="footer footer-left">
+                            call us now : +91-04952234222
+                        </div>
                     </div>
-                </div>
-        </div>
-            <div class="container">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <div class="footer footer-left">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="footer footer-right">
+                            <a href="http://morfspin.com/">© MORFSPIN</a> 2016. All Rights Reserved
+                            <aside id="text-4" class="widget widget_text">
+                                <div class="textwidget" style="padding-top: 20px ; padding-left: 20px">
 
-
-                        call us now : +91-04952234222
-
-                    </div>
-
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <div class="footer footer-right">
-                        <a href="http://morfspin.com/">© MORFSPIN</a> 2016. All Rights Reserved
-                        <aside id="text-4" class="widget widget_text">
-                            <div class="textwidget" style="padding-top: 20px ; padding-left: 20px">
-
-                                <p style="font-size: 28px; line-height: 28px;">
-                                    <a href="https://www.facebook.com/aseptica.in/?fref=ts" style="color: #cacaca;"><i
-                                            class="icon-facebook-circled"></i></a>
-                                    <a href="https://plus.google.com/109305722591480388779" style="color: #cacaca;"><i
-                                            class="icon-gplus-circled"></i> </a>
-                                    <a href="https://twitter.com/InfoAseptica" style="color: #cacaca;"><i
-                                            class="icon-twitter-circled"></i></a>
-                                    <a href="https://www.linkedin.com/uas/login" style="color: #cacaca;"><i
-                                            class="icon-linkedin-circled"></i></a></p></div>
-                        </aside>
+                                    <p style="font-size: 28px; line-height: 28px;">
+                                        <a href="https://www.facebook.com/aseptica.in/?fref=ts" style="color: #cacaca;"><i
+                                                class="icon-facebook-circled"></i></a>
+                                        <a href="https://plus.google.com/109305722591480388779" style="color: #cacaca;"><i
+                                                class="icon-gplus-circled"></i> </a>
+                                        <a href="https://twitter.com/InfoAseptica" style="color: #cacaca;"><i
+                                                class="icon-twitter-circled"></i></a>
+                                        <a href="https://www.linkedin.com/uas/login" style="color: #cacaca;"><i
+                                                class="icon-linkedin-circled"></i></a></p></div>
+                            </aside>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div><!--End bottom footer-->
 </footer>
-<div class="footer-widget-content">
-    <div class="container">
 
-    </div>
-</div>
-<style type='text/css'>
-    .fb_iframe_widget > span {
-        display: table !important;
-    }
-
-    .woo-social-buttons {
-        margin: 10px 0;
-    }
-
-    .woo-social-buttons img {
-        vertical-align: top;
-    }
-
-    .woo-social-buttons span.custom {
-        float: left;
-        margin: 0 5px 5px 0;
-    }
-
-    .woo-social-buttons span.nocount, .woo-social-buttons span.hcount {
-        float: left;
-        margin: 0 5px 5px 0;
-        height: 21px;
-    }
-
-    .woo-social-buttons span.vcount {
-        float: left;
-        margin: 0 5px 5px 0;
-        height: 65px;
-    }
-
-    .woo-social-buttons span.yithqv {
-        float: left;
-        margin: 0 5px 5px 0;
-        height: 36px;
-    }
-
-    .woo-social-buttons iframe {
-        margin: 0 !important;
-        padding: 0 !important;
-        vertical-align: baseline;
-    }
-
-    .woo-social-buttons .smsb_pinterest.vcount {
-        position: relative;
-        top: 30px
-    }
-
-    .woo-social-buttons .smsb_tumblr iframe {
-        height: 20px !important;
-        width: 50px !important;
-    }
-
-    .woo-social-buttons .smsb_tumblr.hcount iframe {
-        height: 20px !important;
-        width: 72px !important;
-    }
-
-    .woo-social-buttons .smsb_tumblr.vcount iframe {
-        height: 40px !important;
-        width: 55px !important;
-    }
-
-    .woo-social-buttons .smsb_stumbleupon.vcount iframe {
-        height: 60px !important;
-        width: 50px !important;
-    }
-
-    .woo-social-buttons .smsb_vkontakte table tr > td {
-        padding: 0px;
-        line-height: auto;
-    }
-
-    .woo-social-buttons .smsb_vkontakte a {
-        height: auto !important;
-    }
-</style>
-<div id="festi-cart-pop-up-bg"></div>
-<div style="display:none; " class="festi-cart-pop-up-content" id="festi-cart-pop-up-content">
-    <span class="festi-cart-closed b-close"><span class="festi-cart-closed-button">&times;</span></span>
-    <div class="festi-cart-pop-up-body">
-        <div class="festi-cart-pop-up-header">
-            <span class="festi-cart-added-to-cart-msg">Item Added to your Cart!</span>
-        </div>
-        <div class="festi-cart-pop-up-products-content">
-            <div id="festi-cart-pop-up-products-list-body">
-                <table class="festi-cart-list">
-                    <tr class="festi-cart-empty">
-                        <td class="festi-cart-empty" colspan="4">
-                            There are no products
-                        </td>
-
-                        </td>
-                    </tr>
-
-
-                </table>
-            </div>
-        </div>
-
-        <div class="festi-cart-pop-up-footer">
-            <span class="festi-cart-continue b-close"><span
-                    class="festi-cart-continue-shopping">Continue Shopping</span></span>
-        </div>
-    </div>
-</div>
 <script>
     (function ($) {
         // Subcribe mailchimp
