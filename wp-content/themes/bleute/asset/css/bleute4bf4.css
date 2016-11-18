@@ -10004,9 +10004,9 @@ footer .footer {
 }
 
 footer .footer.footer-left {
-  text-transform: uppercase;
+ 
   font-style: normal;
-  text-align: center;
+  text-align: left;
   float: left;
 }
 
